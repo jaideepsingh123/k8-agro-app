@@ -55,3 +55,4 @@ Achieved seamless scaling and high availability, supporting 99.9% uptime for cri
 This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
 
 # kind-k8-argocd-app
+# k8-agro-app
